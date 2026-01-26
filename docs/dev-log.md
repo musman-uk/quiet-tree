@@ -2,7 +2,7 @@
 
 A chronological record of decisions, experiments, and reflections.
 
-## Day 0 – Foundation
+##  Foundation
 - Created the initial repository structure.
 - Added a minimal `.gitignore` to keep the project clean.
 - Set up folders for scenes, assets, and documentation.
