@@ -1,0 +1,19 @@
+# GDevelop export folders
+/builds/
+/export/
+
+# GDevelop cache
+*.cache
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if ever used for extensions)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
