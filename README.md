@@ -1,39 +1,38 @@
 # A Quiet Tree
 
-*A Quiet Tree* is a small, reflective game about stillness, gentle growth, and the quiet moments we often overlook.  
-It is not a puzzle or a challenge. It is a pause – a space to breathe, to notice, to be present.
+This repository contains an in‑development 2D game called A Quiet Tree, built in GDevelop.  
+The project focuses on stillness, gentle interaction, and the quiet emotional spaces that often go unnoticed.  
+At this stage, the work is centred on establishing a clear foundation for scenes, assets, and the gradual emergence of the game’s tone.
 
-This repository holds the early structure of the project as it begins to take shape.  
-Right now, the focus is on building a clean foundation: a place for scenes, assets, design notes, and the slow emergence of the game’s emotional centre.
+## Repository Contents
 
-## Current Status
+A simplified view of the project’s structure:
 
-The project is in its earliest phase:
-- establishing the file structure  
-- defining the tone and thematic direction  
-- preparing the environment for development  
-- documenting early thoughts and intentions  
+`game/` – core GDevelop project files, scenes, and event logic  
+`assets/` – sprites, audio, fonts, and visual elements  
+`builds/` – exported builds  
+`export/` – temporary GDevelop exports  
+`README.md` – main overview of the project  
+`ROADMAP.md` – planned development and future milestones  
+`DEVLOG.md` – ongoing notes on progress and iteration  
+`CHANGELOG.md` – version history and recorded changes  
+`DESIGN-NOTES.md` – design intentions, tone, and interaction principles  
 
-No gameplay exists yet – only the roots.
+## Development Flow
 
-## Project Philosophy
+A Quiet Tree is created entirely within GDevelop.  
+All scenes, objects, and interactions begin their life inside the engine, where the tone and pacing of the game take shape.
 
-*A Quiet Tree* is being built with intention:
-- minimalism over noise  
-- clarity over complexity  
-- emotional resonance over mechanics  
-- slow, deliberate development rather than rushed iteration  
+Once work begins in GDevelop, the rest of the process follows a simple rhythm:
 
-This repo will grow quietly, branch by branch.
+- assets are organised in the `assets/` folder to keep visuals and audio clear and intentional  
+- project files in `game/` hold the scenes, events, and logic that define the game’s behaviour  
+- the repository root records the project’s direction through the roadmap, dev log, changelog, and design notes  
+- when a build is ready to test, GDevelop exports it into the `builds/` directory  
 
-## Structure
+The flow is designed to stay quiet and manageable, allowing the game to grow at a steady, deliberate pace.
 
-- `game/` – scenes, events, and objects  
-- `assets/` – sprites, audio, fonts  
-- `docs/` – design notes, dev logs, and conceptual grounding  
-- `builds/` – exported builds (ignored)  
-- `export/` – temporary GDevelop exports (ignored)  
+## Status
 
-## License
-
-To be decided once the project reaches a more complete form.
+Version `0.0.0` – Draft  
+The project is in its earliest phase, with structure, tone, and foundations being established.
