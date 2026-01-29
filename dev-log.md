@@ -1,4 +1,4 @@
-# Development Log
+# Developer Log
 
 A chronological record of decisions, experiments, and reflections.
 
