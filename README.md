@@ -13,14 +13,12 @@ A short summary of what each part of the project contains:
 `builds/` – exported builds  
 `export/` – temporary GDevelop exports  
 `README.md` – main overview of the project  
-`ROADMAP.md` – planned development and future milestones  
-`DEVLOG.md` – ongoing notes on progress and iteration  
-`CHANGELOG.md` – version history and recorded changes  
-`DESIGN-NOTES.md` – design intentions, tone, and interaction principles  
+`RECORD.md` – consolidated technical record for the project
+
 
 ---
 
-## Development Process
+## Development Overview
 
 The game is being developed in GDevelop, this includes all scenes, objects, logic, and interactions. 
 
