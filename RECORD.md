@@ -1,7 +1,5 @@
 # RECORD
 
----
-
 ## 1. Design Style
 
 ### Tone & Experience
