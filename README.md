@@ -8,13 +8,13 @@ This repository contains an in‑development 2D game called A Quiet Tree, built 
 
 A short summary of what each part of the project contains:
 
-`game/` – core GDevelop project files, scenes, and event logic  
 `assets/` – sprites, audio, fonts, and visual elements  
 `builds/` – exported builds  
 `export/` – temporary GDevelop exports  
+`game/` – core GDevelop project files, scenes, and event logic  
+`.gitignore` – project‑level ignore rules  
 `README.md` – main overview of the project  
-`RECORD.md` – consolidated technical record for the project
-
+`RECORD.md` – consolidated technical record for the project  
 
 ---
 
