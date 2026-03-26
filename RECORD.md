@@ -1,7 +1,5 @@
 # RECORD
 
-A consolidated technical record covering design constraints, development approach, version history, and planned work for *A Quiet Tree*.
-
 ---
 
 ## 1. Design Style
