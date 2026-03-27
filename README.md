@@ -1,6 +1,6 @@
-# A Quiet Tree
+# Quiet Tree
 
-This repository contains an in‑development 2D game called A Quiet Tree, built in GDevelop and is a project that focuses on a quiet landscape, stillness, and gentle interaction. 
+This repository contains an in‑development 2D game called Quiet Tree, built in GDevelop and is a project that focuses on a quiet landscape, stillness, and gentle interaction. 
 
 ---
 
