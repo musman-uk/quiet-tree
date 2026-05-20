@@ -34,7 +34,6 @@ The following process is in conjunction with the games developement:
 ## Status
 
 Version `1.0.0` – Published
-The project is in its earliest phase, with structure, tone, and foundations being established.
 
 ---
 
