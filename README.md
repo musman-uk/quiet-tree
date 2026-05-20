@@ -1,6 +1,6 @@
 # Quiet Tree
 
-This repository contains a 2D game called Quiet Tree, built in GDevelop and is a project that focuses on a quiet landscape, stillness, and gentle interaction. 
+This repository contains [Quiet Tree](https://gd.games/musman-uk/quiet-tree) - A 2D game built in GDevelop that focuses on a quiet landscape, stillness, and gentle interaction. 
 
 ---
 
@@ -33,7 +33,7 @@ The following process is in conjunction with the games developement:
 
 ## Status
 
-Version `0.0.0` – Draft  
+Version `1.0.0` – Published
 The project is in its earliest phase, with structure, tone, and foundations being established.
 
 ---
